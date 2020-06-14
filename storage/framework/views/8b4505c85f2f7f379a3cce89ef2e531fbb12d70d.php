@@ -1,0 +1,1 @@
+<?php /**PATH /home/vicky/Documents/discussionforum/resources/views/subjects/index.blade.php ENDPATH**/ ?>
